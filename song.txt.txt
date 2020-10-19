@@ -9,4 +9,5 @@ kichite iku
 kasanaru kage
 kimochide
 Tsuyosawo motometeiku
+for tag only
 
